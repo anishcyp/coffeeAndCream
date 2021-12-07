@@ -1,0 +1,164 @@
+Server details 
+
+Namesco1
+Password 
+
+User name stripperpartybus.com
+https://domains.register365.com/domain/stripperpartybus.com#/
+https://www.names.co.uk/email-hosting/features/webmail
+--------------------------------------
+stripperspartybus.ie
+Please see below cPanel details :
+direct login: https://lhcp1078.webapps.net:2083/
+username : y33mdxzy
+
+------------------------------------
+Facebook login
+Mobile: 07756765622
+Password: Password2021
+
+Gmail details
+Username: covidpropertyfinder@gmail.com
+Password: Password2021
+
+--------------------
+
+http://stripperpartybus.com/cpanel
+y33mdxzy
+Propertypal2021
+
+--------------------
+
+And here is Cpanel details that we want:
+
+https://lhcp1078.webapps.net:2083/logout/?locale=en
+
+y33mdxzy
+ Username 
+
+Password 
+Akashdeep2021
+
+Access to cpannel.
+
+====================
+
+coffeencreambelfast@gmail.com
+akash2021
+
+====================
+
+FB Account :
+
+strippergramuk@hotmail.co.uk / Password2021
+
+====================
+
+Test Account :
+
+https://www.escort-ireland.com/dashboard.html
+
+cisah66653@seacob.com
+Developer@123
+
+====================
+
+Test fb user :
+
+testerdemo20m19@gmail.com / Sxope@1234
+
+------------
+
+Facebook developer account :
+
+strippergramuk@hotmail.co.uk / Password2021
+New pass : Password@2021
+
+----------------------
+
+Punter details.
+
+https://www.escort-ireland.com/
+
+Email address
+coffeencreambelfast@gmail.com
+
+User name bignorm
+Password Akash2021
+
+=====================
+
+Client ID :
+
+933613824245-r6n2ac7jqjb4jdp8nn3fstoj4erpotod.apps.googleusercontent.com
+
+Client secret :
+
+GsZArUeOu8naA3gWQ6cFswKk
+
+======================
+
+The domain name will be Belfaststripper.co.uk 
+For the stripper website.
+
+And this is the details:
+Username: info@belfaststrippers.co.uk
+Password: Xn17A?@34
+
+http://belfaststripper.co.uk/
+
+=======================
+
+https://dashboard.stripe.com/login
+
+Email address jaynorm@hotmail.com
+
+Password
+Akashdeep2021
+
+Could you set this up as a payment on the website.
+
+Also set it up in the account
+Under payment
+https://stripperpartybus.com/dynamic/SignIn
+
+========================
+
+Test mode details :
+
+Publishable key
+
+pk_test_51IVisHGRzhKHojuNi7UQ8lN6qOIG4LbXAdoIXrYcx7jmSCvvfNkohAh0Koyak5iIYX0utyR9uI1UlzJC2OSlKV1M00VjFgiYbR
+
+Secret key
+
+sk_test_51IVisHGRzhKHojuNjpeQ1aCOCQor3gJpp1F1p3a2OrczYpMx4uIuRlwlQl0SmWHIK9LcTwPbE66Ns1AZceX21ApL00ftM9QaU6
+
+========================
+
+Live mode details :
+
+Publishable key
+
+pk_live_51IVisHGRzhKHojuNz42n1NqMjaXxFPG11wKOb6VOjS76or7uLHkrHZ2rTTJCaaUrm0ze5MGFR49rXBfk8U8IndqY00qzpLQKf2
+
+Secret key
+
+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
+
+==========================
+
+Braintree token :
+
+access_token$production$v6r274x934spncw6$fc71b4c8f75014ca413f09eb61c7e242
+
+==========================
+
+https://www.escort-ireland.com/login.html
+Login details
+I recommend you check out the membership
+
+User name ( Bignorm303
+Password (Akashdeep2021
+
+Login in and see there membership layout.
